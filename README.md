@@ -16,7 +16,7 @@ You can view my detailed resume [here](path/to/ATHARV_KAUSHIK_RESUME.pdf).
 ## 📫 Contact Me
 
 - **Email:** atharv.kaushik7@gmail.com
-- **LinkedIn:** [linkedin.com/in/atharv-kaushik](https://www.linkedin.com/in/ak2k4)
+- **LinkedIn:** [linkedin.com/in/ak2k4](https://www.linkedin.com/in/ak2k4)
 
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
