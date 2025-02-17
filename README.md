@@ -13,14 +13,10 @@ You can view my detailed resume [here](path/to/ATHARV_KAUSHIK_RESUME.pdf).
 - **Databases:** MySQL, MongoDB
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
-## 📈 GitHub Stats
-
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 
-- **Email:** atharv.kaushik@example.com
-- **LinkedIn:** [linkedin.com/in/atharv-kaushik](https://www.linkedin.com/in/atharv-kaushik)
-- **Twitter:** [@atharv_kaushik](https://twitter.com/atharv_kaushik)
+- **Email:** atharv.kaushik7@gmail.com
+- **LinkedIn:** [linkedin.com/in/atharv-kaushik](https://www.linkedin.com/in/ak2k4)
+
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
